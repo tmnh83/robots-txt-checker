@@ -53,19 +53,10 @@ Der Skill greift automatisch, wenn im Chat Formulierungen wie diese vorkommen:
 
 Im Anschluss an die Tabelle benennt der Skill kritische Probleme und Diskussionspunkte im Klartext.
 
-### Beispiel robots.txt-Generierung (Ausschnitt)
-
-User-agent: GPTBot
-User-agent: CCBot
-User-agent: Bytespider
-Disallow: /
-
-Statt für jeden Bot einen eigenen, sich wiederholenden Block.
-
 ## Sonderfall Google-Extended
 
 Google-Extended steuert sowohl die Nutzung für KI-Training als auch, teils, die Sichtbarkeit in AI Overviews und Gemini Search. Der Skill weist bei einer Sperre auf diese Doppelfunktion hin, statt sie pauschal als Problem oder als unproblematisch einzustufen.
 
 ## Lizenz
 
-MIT (nach eigenem Ermessen anpassen)
+MIT
